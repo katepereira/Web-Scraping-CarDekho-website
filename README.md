@@ -1,5 +1,5 @@
 # Web-Scraping-CarDekho-website
-# CarDekho.com Web Scraping Project
+
 
 ## Overview
 This project involves web scraping car listings from [CarDekho.com](https://www.cardekho.com/) with a focus on Isuzu and Volvo cars located in Bangalore and Mumbai. After collecting the data, analysis and visualization were performed using Power BI to extract insights.
